@@ -16,10 +16,10 @@ An intelligent AI-powered system that generates a professional resume, personali
 
 ## ⚙️ Tech Stack
 
-- n8n – Workflow automation  
-- Groq API – LLM-based content generation  
-- PDFShift – Resume PDF generation  
-- HTML, CSS, JavaScript – Frontend UI  
+- **n8n** – Workflow automation  
+- **Groq API** – LLM-based content generation  
+- **PDFShift** – Resume PDF generation  
+- **HTML, CSS, JavaScript** – Frontend UI  
 
 ---
 
